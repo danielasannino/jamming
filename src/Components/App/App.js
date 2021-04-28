@@ -14,7 +14,7 @@ class App extends React.Component() {
       playlistTracks: []
     }
     this.addTrack = this.addTrack.bind(this);
-  };
+  }
   addTrack(track) {
     const currentSong = this.state.playlistTracks;
     if (currentSong.find(currentTrack => currentTrack.id === track.id)) {
