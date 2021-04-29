@@ -1,0 +1,1 @@
+export const spotifyClientID = 'f9bb8fa1163c47e39739c81f11e451e1';
