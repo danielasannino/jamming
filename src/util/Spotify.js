@@ -1,5 +1,5 @@
 const clientId = 'f9bb8fa1163c47e39739c81f11e451e1'; // Insert client ID here.
-const redirectUri = 'https://muddled-room.surge.sh';
+const redirectUri = 'https://gallant-goldwasser-ca1b8b.netlify.app';
 let accessToken;
 
 const Spotify = {
